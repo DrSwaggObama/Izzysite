@@ -37,7 +37,7 @@ function showMessage(response) {
     yesMessage.textContent = "LESGOOO see you on our next call babygirl😘😘";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/dance.gif";
+    document.getElementsByClassName("image")[0].src = "images/dune1.gif";
 
     // Remove yes button
     document.getElementById("yesButton").remove();
